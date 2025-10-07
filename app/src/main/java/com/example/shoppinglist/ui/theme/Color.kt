@@ -8,8 +8,8 @@ val RedDark = Color(0xFF6B0D0D)
 val RedOn = Color(0xFFFFFFFF)
 
 // Ganti background jadi ungu
-val RedBackground = Color(0xFF4A148C)      // ungu tua untuk light mode
-val RedOnBackground = Color(0xFFFFFFFF)
+val RedBackground = Color(0xFFF3E5F5)      // ungu tua untuk light mode
+val RedOnBackground = Color(0xFF1B0033)
 
 // Ganti surface agar konsisten dengan ungu (opsional tapi saya sesuaikan)
 val RedSurface = Color(0xFF6A1B9A)         // ungu medium
@@ -26,7 +26,7 @@ val RedPrimaryContainer = Color(0xFFFFDAD6)
 val RedOnPrimaryContainer = Color(0xFF410E0B)
 
 // Warna untuk dark mode
-val RedDarkBackground = Color(0xFF4A148C)  // ungu tua untuk dark mode
+val RedDarkBackground = Color(0xFF4A148C)
 val RedDarkOnBackground = Color(0xFFFFFFFF)
 val RedDarkPrimaryContainer = Color(0xFF93000A)
 val RedDarkOnPrimaryContainer = Color(0xFFFFDAD6)
